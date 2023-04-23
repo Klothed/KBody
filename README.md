@@ -1,4 +1,4 @@
-# Nerfies
+# KBody
 
 This is the repository that contains source code for the [KBody website](https://klothed.github.io/KBody).
 
@@ -8,6 +8,7 @@ If you find KBody useful for your work please cite:
   author    = {Zioulis, Nikolaos and O'Brien, James F.},
   title     = {KBody: Towards general, robust, and aligned monocular whole-body estimation},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  url       = {https://klothed.github.io/KBody/},
   month     = {June},
   year      = {2023},
 }
